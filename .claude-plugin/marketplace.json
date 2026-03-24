@@ -60,9 +60,9 @@
       "description": "Connect to preclinical research tools and databases (literature search, genomics analysis, target prioritization) to accelerate early-stage life sciences R&D"
     },
     {
-      "name": "pdf-research",
-      "source": "./pdf-research",
-      "description": "Read, navigate, and analyze PDF documents — academic papers, reports, and local files. Uses a local PDF MCP server for interactive viewing and text extraction."
+      "name": "pdf",
+      "source": "./pdf",
+      "description": "Interactive PDF workflows — view, annotate, fill forms, and sign documents in a live viewer. Collaborate on markup, stamp approvals, and place signatures with real-time visual feedback."
     }
   ]
 }
