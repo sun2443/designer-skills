@@ -1,8 +1,0 @@
-{
-  "name": "pdf",
-  "version": "0.2.0",
-  "description": "Interactive PDF workflows — view, annotate, fill forms, and sign documents in a live viewer. Collaborate on markup, stamp approvals, and place signatures with real-time visual feedback.",
-  "author": {
-    "name": "Anthropic"
-  }
-}

@@ -1,9 +1,9 @@
 ---
-name: pdf
-description: Interactive PDF viewer for annotating, form-filling, and signing documents. Use when the user wants to SEE a PDF, collaboratively mark it up, fill in form fields, place a signature, or review annotations together. Do NOT use for pure text extraction or summarization — Claude's native Read tool handles PDF ingestion more efficiently.
+name: view-pdf
+description: Interactive PDF viewer. Use when the user wants to open, show, or view a PDF and collaborate on it visually — annotate, highlight, stamp, fill form fields, place signature/initials, or review markup together. Not for summarization or text extraction (use native Read instead).
 ---
 
-# PDF — Interactive Document Workflows
+# PDF Viewer — Interactive Document Workflows
 
 You have access to a local PDF server that renders documents in a live
 viewer and lets you annotate, fill forms, and place signatures with

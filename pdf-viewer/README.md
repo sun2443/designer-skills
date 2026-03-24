@@ -1,7 +1,8 @@
-# PDF Plugin
+# PDF Viewer Plugin
 
-Interactive PDF workflows — view, annotate, fill forms, and sign
-documents in a live viewer with real-time visual feedback.
+View, annotate, and sign PDFs in a live interactive viewer. Mark up
+contracts, fill forms with visual feedback, stamp approvals, and place
+signatures — then download the annotated copy.
 
 ## What It Does
 
@@ -17,10 +18,10 @@ documents in a live viewer with real-time visual feedback.
 
 | Command | What it does |
 |---------|-------------|
-| `/pdf:open` | Open a PDF in the interactive viewer |
-| `/pdf:annotate` | Walk through the document, propose + apply markup, review together |
-| `/pdf:fill-form` | Fill PDF form fields interactively |
-| `/pdf:sign` | Place a signature or initials image on the page |
+| `/pdf-viewer:open` | Open a PDF in the interactive viewer |
+| `/pdf-viewer:annotate` | Walk through the document, propose + apply markup, review together |
+| `/pdf-viewer:fill-form` | Fill PDF form fields interactively |
+| `/pdf-viewer:sign` | Place a signature or initials image on the page |
 
 ## When to use this vs. just reading a PDF
 
@@ -51,6 +52,6 @@ the PDF server starts automatically when the plugin loads.
 
 ## Signature Disclaimer
 
-`/pdf:sign` places a **visual** signature image on the page. It is not
+`/pdf-viewer:sign` places a **visual** signature image on the page. It is not
 a certified or cryptographic digital signature. For legally binding
 e-signatures, use a dedicated signing service.

@@ -51,4 +51,4 @@ annotation.
   viewer
 - Coordinate origin is top-left; a typical bottom-right signature on
   US Letter is around `x: 400, y: 700`
-- Pair with `/pdf:fill-form` for complete form workflows
+- Pair with `/pdf-viewer:fill-form` for complete form workflows
